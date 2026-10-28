@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent API Compatibility Analyzer",
+  "description": "Detect breaking changes, analyze schema compatibility, and generate migration reports between API versions with AI-powered explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
